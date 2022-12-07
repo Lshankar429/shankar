@@ -1,0 +1,31 @@
+n=p count:", pc dy hjjfghxfhjfsyhhhgghh Assignment -1:
+Write a program to print reverse of the given number?
+Input:
+N=12345
+Output:
+54321
+Assignment 2:
+Write a program to print given number is palindrome or not?
+Ex:
+Input:
+123
+Output:
+Not a palindrome
+Explanation:123 and reverse of 123(321) is not same.
+Input:121
+Output:
+Palindrome
+Assignment 3:
+Write a program to print give number is Armstrong or not.
+Input:
+153
+Output:
+Armstrong Number
+Explanation:
+1*1*1+5*5*5+3*3*3=153
+
+Input:123
+Output:
+Not a Armstrong
+Explanation:
+1*1*1+2*2*2+3*3*3=36
